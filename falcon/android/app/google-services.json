@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "425434235295",
+    "project_id": "team-falcon-3733e",
+    "storage_bucket": "team-falcon-3733e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425434235295:android:43df31b30e2a74b135fdaa",
+        "android_client_info": {
+          "package_name": "com.example.falcon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425434235295-g7tbiahq56casgq71mfvrjsvfs1qgefm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.falcon",
+            "certificate_hash": "a43abc2f927fb9b4dc59670b0f29a9454adcc200"
+          }
+        },
+        {
+          "client_id": "425434235295-lorntp8velhpb0ec6s47b7871ca3nv1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh8fgmqPrr-DoiJtgNKQ-HPqzQMYHkTNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425434235295-lorntp8velhpb0ec6s47b7871ca3nv1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
